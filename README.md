@@ -11,6 +11,9 @@ in the finished product.
 Few things to note:
 
 1) Does not actually email a pdf because the 'submit' button does not work.
+<br>
 2) Logging in has no effect.
+<br>
 3) You cannot save a CRW.
+<br>
 4) You cannot download a saved CRW.
